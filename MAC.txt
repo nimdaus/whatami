@@ -1,0 +1,22 @@
+VMware ESXi
+00:50:56
+00:0C:29
+00:05:69
+00:52:32
+
+
+Microsoft Hyper-V
+00:03:FF
+00:15:5d
+
+
+Parallels
+00:1C:42
+
+
+Xen
+00:16:3E
+
+
+VirtualBox
+08:00:27
